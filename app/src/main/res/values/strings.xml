@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="top_pile">Top of pile</string>
+    <string name="card_to_play">Your hand, Select card to play</string>
+    <string name="error">Error</string>
+    <string name="title">Winner</string>
+    <string name="dialog_message">Win</string>
+    <string name="play_again">Play again</string>
+    <string name="exit">Exit</string>
+</resources>
